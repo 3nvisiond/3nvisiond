@@ -1,6 +1,6 @@
 # this is very low effort btw
 
-Hello, I am **Envisiond**. I am currently pursuing a degree in computer science, (I'm in hightschool lol) and I'm learning Java along with Minecraft as well.
+Hello, I am **Envisiond**. I am currently pursuing a degree in computer science, (I'm in highschool lol) and I'm learning C++ rn.
 
 My pronouns are: _he/him_.
 
